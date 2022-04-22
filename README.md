@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Luiz Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**luiz-matias/luiz-matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+	<a href="mailto:contact@luizmatias.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://github.com/luiz-matias"><img src="https://img.shields.io/badge/github-%23181717.svg?logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/luizmatias1999/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Engineer** focused on **Mobile** technologies, using mainly **Android** to develop solutions for companies that have large and worldwide apps.
+
+I have **more than 6 years experience** with software development, guaranteeing me a deep tech knowledge and also several soft skills such as teamwork, intrapreneurship and autonomy to learn by myself. In addition, I also had experience acting as a **Head of Mobile Apps**, which my main goal was to lead a whole squad of development to deliver high quality features for thousands of users.
+
+Nowadays, I'm interested to keep evolving as a developer by helping companies to create, evolve and maintain high-scale apps with international impact, regardless of the location.
+
+<br>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-matias&theme=algolia" alt="luiz-matias" /></p>
