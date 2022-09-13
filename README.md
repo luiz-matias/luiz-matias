@@ -10,7 +10,7 @@
 
 I'm a **Software Engineer** focused on **Mobile** technologies, using mainly **Android** to develop solutions for companies that have large and worldwide apps.
 
-I have **more than 6 years experience** with software development, guaranteeing me a deep tech knowledge and also several soft skills such as teamwork, intrapreneurship and autonomy to learn by myself. In addition, I also had experience acting as a **Head of Mobile Apps**, which my main goal was to lead a whole squad of development to deliver high quality features for thousands of users.
+I have **more than 6 years experience** with software development, guaranteeing me a deep tech knowledge and also several soft skills such as teamwork, intrapreneurship and autonomy to learn by myself. In addition, I also had experience acting as a **Head of Mobile Apps**, which my main goal was to lead a squad of development to deliver high quality features for thousands of users.
 
 Nowadays, I'm interested to keep evolving as a developer by helping companies to create, evolve and maintain high-scale apps with international impact, regardless of the location.
 
