@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-	<a href="mailto:luizmatias@luizmatias.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="mailto:luiz.matias1999@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://www.twitch.tv/xskyon"><img src="https://img.shields.io/twitch/status/xskyon?style=social" alt="Twitch"/></a>
 	<a href="https://www.linkedin.com/in/luizmatias1999/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
