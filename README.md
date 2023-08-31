@@ -14,7 +14,7 @@ I have 7 years of experience with software development, guaranteeing me deep tec
 
 I'm currently based in Brazil and interested in continuing to evolve as a developer by helping companies create and maintain high-scale apps with international impact, regardless of location.
 
-I'm open to considering remote or sponsored visa opportunities in Europe and North America. Let's get in contact!
+I'm open to considering sponsored visa opportunities in Europe and North America. Let's get in contact!
 
 <br>
 
