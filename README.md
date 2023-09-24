@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <h1 align="center">Hi!</h1>
 
 <br>
-
+ -->
 <p align="center">
 	<a href="mailto:contact@luizmatias.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://www.twitch.tv/xskyon"><img src="https://img.shields.io/twitch/status/xskyon?style=social" alt="Twitch"/></a>
