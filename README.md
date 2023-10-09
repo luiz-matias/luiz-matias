@@ -12,7 +12,7 @@ I'm a Software Engineer focused on Mobile technologies, using mainly Android to 
 
 I have 7 years of experience with software development, guaranteeing me deep tech knowledge and several soft skills such as communication, teamwork, intrapreneurship, and autonomy to learn by myself.
 
-I'm currently based in Brazil and interested in continuing to evolve as a developer by helping companies create and maintain high-scale apps with international impact, regardless of location.
+I'm currently based in Brazil working remotely with teams around the entire America (US, Canada and LATAM), and interested in continuing to evolve as a developer by helping companies create and maintain high-scale systems with international impact, regardless of location.
 
 I'm open to considering sponsored visa opportunities in Europe and North America. Let's get in contact!
 
