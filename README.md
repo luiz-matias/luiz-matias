@@ -14,8 +14,6 @@ I have 8 years of experience with software development, guaranteeing me deep tec
 
 I'm currently based in Brazil working remotely with teams around the entire America (US, Canada and LATAM), and interested in continuing to evolve as a developer by helping companies create and maintain high-scale systems with international impact, regardless of location.
 
-I'm open to considering sponsored visa opportunities in Europe and North America. Let's get in contact!
-
 <br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-matias&theme=algolia" alt="luiz-matias" /></p>
