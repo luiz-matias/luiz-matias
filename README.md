@@ -1,7 +1,3 @@
-<!-- <h1 align="center">Hi!</h1>
-
-<br>
- -->
 <p align="center">
 	<a href="mailto:contact@luizmatias.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://www.twitch.tv/xskyon"><img src="https://img.shields.io/twitch/status/xskyon?style=social" alt="Twitch"/></a>
@@ -10,9 +6,11 @@
 
 I'm a Software Engineer focused on Mobile technologies, using mainly Android to develop solutions for companies that have large and worldwide apps.
 
-I have 8 years of experience with software development, guaranteeing me deep tech knowledge and several soft skills such as communication, teamwork, intrapreneurship, and autonomy to learn by myself.
+Besides mobile development, I'm currently learning fullstack technologies such as Spring Boot (to develop APIs), React and NextJS (to develop frontend websites and mobile apps) so I can be fully autonomous to implement end-to-end solutions.
 
-I'm currently based in Brazil working remotely with teams around the entire America (US, Canada and LATAM), and interested in continuing to evolve as a developer by helping companies create and maintain high-scale systems with international impact, regardless of location.
+I have 8 years of experience with software development, guaranteeing me deep tech knowledge and several soft skills such as communication, teamwork, intrapreneurship, and autonomy.
+
+I'm currently based in Brazil working remotely with teams around the entire America (US, Canada and LATAM), and interested in continuing to evolve as a developer by helping companies creating and maintaining high-scalable systems with international impact, regardless of location.
 
 <br>
 
